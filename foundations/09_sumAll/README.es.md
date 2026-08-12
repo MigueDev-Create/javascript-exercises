@@ -3,7 +3,7 @@
 Implementa una función que reciba 2 enteros positivos y devuelva la suma de todos los enteros comprendidos entre ellos (incluidos ambos):
 
 ```javascript
-sumAll(1, 4) // devuelve la suma de 1 + 2 + 3 + 4, que es 10
+sumAll(1, 4); // devuelve la suma de 1 + 2 + 3 + 4, que es 10
 ```
 
 Si la función recibe argumentos inválidos (como números negativos, no enteros, cadenas, etc. — cualquier cosa que no sean enteros positivos), debe devolver la cadena `'ERROR'`.
